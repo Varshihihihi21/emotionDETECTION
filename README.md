@@ -26,5 +26,6 @@ note:step 1,2 can be done on jupyter environment but if you wanna do it till ste
 
 
 pretrained model is uploaded with 54% accuracy.
+here dataset belongs to kaggle 
 
 dont miss step 1,2 before 3,4.... >_<
